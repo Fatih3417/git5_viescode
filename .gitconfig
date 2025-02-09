@@ -1,0 +1,12 @@
+[user]
+        name = fatih
+        email = gokf7032@gmail.com
+
+[init]
+        defaultBranch = main
+[alias]
+        co = checkout
+        st = status
+        c = commit
+        b = branch
+
